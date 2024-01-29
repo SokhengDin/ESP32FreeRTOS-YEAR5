@@ -1,0 +1,13 @@
+{
+    "idf.adapterTargetName": "esp32c6",
+    "files.associations": {
+        "esp_lcd_panel_interface.h": "c",
+        "esp_lcd_panel_commands.h": "c",
+        "esp_lcd_panel_io.h": "c",
+        "i2c.h": "c",
+        "esp_log.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "dht.h": "c"
+    }
+}

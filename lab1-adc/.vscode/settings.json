@@ -1,0 +1,7 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "ledc.h": "c",
+        "adc_oneshot.h": "c"
+    }
+}

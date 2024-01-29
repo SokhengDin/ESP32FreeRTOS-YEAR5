@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "build/td1-temp-sensor.elf"
+firmware = "build/td1-temp-sensor.bin"

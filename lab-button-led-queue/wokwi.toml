@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "build/lab-button-led-queue.elf"
+firmware = "build/lab-button-led-queue.bin"
